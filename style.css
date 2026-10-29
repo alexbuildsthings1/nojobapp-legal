@@ -1,0 +1,21 @@
+/* Print styles for the NO JOB legal documents: white paper with the app's
+   faces and the Dark style's ink, for printing and for the PDF bundled in
+   the app (tools/build_pdf.sh). The screen uses web.css instead. */
+
+:root { color-scheme: light; }
+@page { size: A4; margin: 22mm 20mm 24mm 20mm; }
+html, body { background: #FFFFFF; font-family: "Manrope", -apple-system, "Helvetica Neue", Helvetica, Arial, sans-serif; color: #0C0C0C; font-size: 11pt; line-height: 1.5; }
+body { margin: 0; }
+.skip-link, .site-header, .site-footer, .doc-head .eyebrow, .doc-head__actions, .toc { display: none; }
+.narrow { max-width: none; padding: 0; }
+.mark { color: #FF6119; }
+h1, .title { font-size: 26pt; line-height: 1.1; font-weight: 700; letter-spacing: -0.6pt; margin: 0 0 4pt 0; }
+.meta { font-family: "Share Tech Mono", "Ubuntu Mono", Menlo, monospace; color: #55575E; font-size: 9.5pt; letter-spacing: 0.3pt; margin-bottom: 18pt; }
+h2 { font-size: 13pt; font-weight: 700; margin: 20pt 0 6pt 0; page-break-after: avoid; }
+p { margin: 0 0 8pt 0; text-align: left; }
+ul { margin: 0 0 8pt 0; padding-left: 18pt; }
+li { margin-bottom: 3pt; }
+.box { border: 1.5px solid #FF6119; border-radius: 8px; padding: 10pt 12pt 2pt; margin: 10pt 0 14pt 0; }
+strong { font-weight: 700; }
+a { color: inherit; text-decoration: none; }
+.footer { font-family: "Share Tech Mono", "Ubuntu Mono", Menlo, monospace; color: #55575E; font-size: 9pt; letter-spacing: 0.3pt; margin-top: 24pt; border-top: 1px solid #E4E2DC; padding-top: 8pt; }

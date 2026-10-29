@@ -1,0 +1,37 @@
+Copyright (c) 2026 the developer of NO JOB. All rights reserved.
+
+This repository and the website built from it — including all source code,
+text (such as the Privacy Policy and support content), designs, graphics, and
+the NO JOB name and icon — are proprietary.
+
+No license is granted. You may not copy, modify, distribute, publish, or
+create derivative works from any part of this repository without prior
+written permission from the copyright holder. Viewing and forking this
+repository on GitHub, as permitted by the GitHub Terms of Service, does not
+grant any right to use its contents elsewhere.
+
+Third-party material
+--------------------
+The fonts in assets/fonts/ are not covered by this notice:
+
+- Manrope (manrope-*.woff2) is Copyright 2018 The Manrope Project Authors and
+  is licensed under the SIL Open Font License, Version 1.1. See
+  assets/fonts/Manrope-OFL.txt.
+- Anton (anton-regular.woff2) is Copyright 2020 The Anton Project Authors and
+  is licensed under the SIL Open Font License, Version 1.1. See
+  assets/fonts/Anton-OFL.txt.
+- Share Tech Mono (sharetechmono-regular.woff2) is Copyright (c) 2012 Carrois
+  Type Design, Ralph du Carrois, with Reserved Font Name 'Share', and is
+  licensed under the SIL Open Font License, Version 1.1. See
+  assets/fonts/ShareTechMono-OFL.txt.
+- Ubuntu Mono (ubuntumono-regular.woff2) is Copyright 2011 Canonical Ltd.
+  and is licensed under the Ubuntu Font Licence, Version 1.0. See
+  assets/fonts/UbuntuMono-UFL.txt.
+
+Manrope and Anton are subsets of the original fonts; Share Tech Mono and
+Ubuntu Mono are the complete fonts. All are converted to WOFF2.
+
+The Terms of Use link points to Apple's Standard Licensed Application End User
+License Agreement, which is Apple's and is not part of this repository.
+
+Contact: nojobapp-support@codeandsprites.online
